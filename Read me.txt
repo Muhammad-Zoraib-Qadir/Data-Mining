@@ -1,0 +1,4 @@
+In this project several time series analysis are done.
+Data has been cleaned, normalized and standardarize.
+There are different 7 types of time series analysis done on the data sets.
+There are different associated graphs with each analysis.
